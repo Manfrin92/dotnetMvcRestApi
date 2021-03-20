@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gWWCq6n1hObQmPIdQB8B2FtOnteMHuIqL3BYBwMzNpi80SM0stVH9jYt/mwd7a1GZJUByOCevPHOc7bBXkuXKg==",
+  "dgSpecHash": "CAcSFlYg16/Y2ZOOlWNYxqQUruZi1KGAS4KJxUUHzUg8Jufm1wSeZl8RhjYQSuZAYGZdYnxx63U4EDaTlwdSWw==",
   "success": true,
   "projectFilePath": "/home/felipe/gitProjects/dotnetMvcRestApi/Comander.csproj",
   "expectedPackageFiles": [
+    "/home/felipe/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/felipe/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/home/felipe/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
     "/home/felipe/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/felipe/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -72,7 +74,7 @@
     "/home/felipe/.nuget/packages/system.private.datacontractserialization/4.3.0/system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "/home/felipe/.nuget/packages/system.private.uri/4.3.2/system.private.uri.4.3.2.nupkg.sha512",
     "/home/felipe/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
-    "/home/felipe/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/home/felipe/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/home/felipe/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "/home/felipe/.nuget/packages/system.reflection.emit.lightweight/4.3.0/system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "/home/felipe/.nuget/packages/system.reflection.extensions/4.3.0/system.reflection.extensions.4.3.0.nupkg.sha512",

@@ -32,6 +32,8 @@ namespace Comander
 
             services.AddControllers();
 
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
 
             // This was the old mock repository
             // services.AddScoped<ICommanderRepo, MockCommanderRepo>();
