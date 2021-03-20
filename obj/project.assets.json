@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/felipe/gitProjects/Comander/Comander.csproj",
+      "projectUniqueName": "/home/felipe/gitProjects/dotnetMvcRestApi/Comander.csproj",
       "projectName": "Comander",
-      "projectPath": "/home/felipe/gitProjects/Comander/Comander.csproj",
+      "projectPath": "/home/felipe/gitProjects/dotnetMvcRestApi/Comander.csproj",
       "packagesPath": "/home/felipe/.nuget/packages/",
-      "outputPath": "/home/felipe/gitProjects/Comander/obj/",
+      "outputPath": "/home/felipe/gitProjects/dotnetMvcRestApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/felipe/.nuget/NuGet/NuGet.Config"

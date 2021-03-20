@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gNU2p1rj7uTbJzsAc3fgaZ5KQoSShi8bbsX8mpSi9Is8DG3q0BD36T7wT00ynnDdQObm0iPxahCwHsnZ0heqYQ==",
+  "dgSpecHash": "8SljvGGIlwnzFyAA99ONqtkl/PbbBuPKJmaZsLIL1nfFgPxf34PFMQrFHXt3m4EU5NbT1bQ7K4ERvQhxl7Abzg==",
   "success": true,
-  "projectFilePath": "/home/felipe/gitProjects/Comander/Comander.csproj",
+  "projectFilePath": "/home/felipe/gitProjects/dotnetMvcRestApi/Comander.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
